@@ -27,7 +27,7 @@ section[epub|type~="dedication"] > *{
 /* End all dedications */
 
 /* letters */
-[epub|type~="z3998:salutation"],
+[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
 /* end of letters */
