@@ -51,7 +51,7 @@
 		<meta property="group-position" refines="#collection-1">3</meta>
 		<dc:description id="description">A French official schemes to finally catch the Scarlet Pimpernel.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In the third installment of her Scarlet Pimpernel stories, &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; brings back Chauvelin, the French official unable to catch the Pimpernel in the first novel. This time he is more determined, more ruthless, and more devious. He plans to capture both the Pimpernel and his wife, threatening an entire town in the process. He has thought of every possibility, closed every loophole, anticipated every move of his arch-rival. It appears that at last the Pimpernel might have met his match.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2785</dc:source>
@@ -67,10 +67,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Baroness_Orczy</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50064803</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Jean-Auguste-Dominique Ingres</dc:contributor>
+		<meta property="file-as" refines="#artist">Ingres, Jean-Auguste-Dominique</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-Auguste-Dominique_Ingres</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n81047807</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">J.C. Byers</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Byers, J.C.</meta>
