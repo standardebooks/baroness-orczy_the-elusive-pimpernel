@@ -2,6 +2,10 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* All dedications */
+section[epub|type~="dedication"]{
+	text-align: center;
+}
+
 section[epub|type~="dedication"] > *{
 	display: inline-block;
 	margin: auto;
@@ -26,12 +30,6 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End all dedications */
-
-/* letters */
-[epub|type~="z3998:salutation"]{
-	font-variant: small-caps;
-}
-/* end of letters */
 
 /* poem/verse/song */
 [epub|type~="z3998:poem"] p{
