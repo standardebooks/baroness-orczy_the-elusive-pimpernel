@@ -60,7 +60,7 @@
 		<meta property="se:production-notes">The transcription was missing all the diacritics, and some of the italics, from the scans.</meta>
 		<meta property="se:word-count">84066</meta>
 		<meta property="se:reading-ease.flesch">66.07</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Elusive_Pimpernel</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Elusive_Pimpernel_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/baroness-orczy_the-elusive-pimpernel</meta>
 		<dc:creator id="author">Baroness Orczy</dc:creator>
 		<meta property="file-as" refines="#author">Orczy, Baroness</meta>
