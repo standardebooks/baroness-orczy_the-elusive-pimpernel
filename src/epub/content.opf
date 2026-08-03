@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/baroness-orczy/the-elusive-pimpernel</dc:identifier>
 		<dc:date>2020-12-08T03:00:02Z</dc:date>
@@ -50,10 +50,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">9</meta>
-		<dc:description id="description">A French official schemes to finally catch the Scarlet Pimpernel.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A French official schemes to finally catch the Scarlet Pimpernel.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In the third published installment of her &lt;a href="https://standardebooks.org/collections/scarlet-pimpernel"&gt;Scarlet Pimpernel&lt;/a&gt; stories, &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; brings back Chauvelin, the French official unable to catch the Pimpernel in the &lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel"&gt;first novel&lt;/a&gt;. This time he is more determined, more ruthless, and more devious. He plans to capture both the Pimpernel and his wife, threatening an entire town in the process. He has thought of every possibility, closed every loophole, anticipated every move of his arch-rival. It appears that at last the Pimpernel might have met his match.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2785</dc:source>
 		<dc:source>https://archive.org/details/elusivepimpernel00orcz</dc:source>
