@@ -50,7 +50,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">9</meta>
-		<dc:abstract>A French official schemes to finally catch the Scarlet Pimpernel.</dc:abstract>
+		<meta property="schema:abstract">A French official schemes to finally catch the Scarlet Pimpernel.</meta>
 		<dc:description>
 			&lt;p&gt;In the third published installment of her &lt;a href="https://standardebooks.org/collections/scarlet-pimpernel"&gt;Scarlet Pimpernel&lt;/a&gt; stories, &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; brings back Chauvelin, the French official unable to catch the Pimpernel in the &lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel"&gt;first novel&lt;/a&gt;. This time he is more determined, more ruthless, and more devious. He plans to capture both the Pimpernel and his wife, threatening an entire town in the process. He has thought of every possibility, closed every loophole, anticipated every move of his arch-rival. It appears that at last the Pimpernel might have met his match.&lt;/p&gt;
 		</dc:description>
